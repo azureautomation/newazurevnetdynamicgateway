@@ -1,0 +1,20 @@
+{
+    "Author": "Guido Basilio de Oliveira",
+    "ContentSize": 4492,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/newazurevnetdynamicgateway/master/New-AzureVnetDynamicGateway.ps1",
+    "DownloadCount": 1413,
+    "Id": "New-AzureVnetDynamicGateway-577d7f22",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 549,
+    "RaterCount": 8,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-7-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Connecting an Azure virtual network (VNet) to another Azure virtual network is very similar to connecting a virtual network to an on-premises site location. Both connectivity types use a virtual network gateway to provide a secure tunnel using IPsec/IKE. The VNets you connect can",
+    "Title": "New-AzureVnetDynamicGateway",
+    "UpdatedDate": "2014-7-25T00:00:00",
+    "Url": "https://github.com/azureautomation/newazurevnetdynamicgateway",
+    "UserTags": "Azure, Powershell, Azure Automation"
+}
